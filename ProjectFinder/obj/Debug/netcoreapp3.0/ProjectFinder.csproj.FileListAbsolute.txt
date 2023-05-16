@@ -1,0 +1,14 @@
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\Debug\netcoreapp3.0\ProjectFinder.exe
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\Debug\netcoreapp3.0\ProjectFinder.deps.json
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\Debug\netcoreapp3.0\ProjectFinder.runtimeconfig.json
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\Debug\netcoreapp3.0\ProjectFinder.runtimeconfig.dev.json
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\Debug\netcoreapp3.0\ProjectFinder.dll
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\Debug\netcoreapp3.0\ProjectFinder.pdb
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\Debug\netcoreapp3.0\ProjectFinder.csproj.AssemblyReference.cache
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\Debug\netcoreapp3.0\ProjectFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\Debug\netcoreapp3.0\ProjectFinder.AssemblyInfoInputs.cache
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\Debug\netcoreapp3.0\ProjectFinder.AssemblyInfo.cs
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\Debug\netcoreapp3.0\ProjectFinder.csproj.CoreCompileInputs.cache
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\Debug\netcoreapp3.0\ProjectFinder.dll
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\Debug\netcoreapp3.0\ProjectFinder.pdb
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\Debug\netcoreapp3.0\ProjectFinder.genruntimeconfig.cache

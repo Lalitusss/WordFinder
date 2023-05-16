@@ -1,0 +1,14 @@
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\x64\Debug\netcoreapp3.1\ProjectFinder.exe
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\x64\Debug\netcoreapp3.1\ProjectFinder.deps.json
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\x64\Debug\netcoreapp3.1\ProjectFinder.runtimeconfig.json
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\x64\Debug\netcoreapp3.1\ProjectFinder.runtimeconfig.dev.json
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\x64\Debug\netcoreapp3.1\ProjectFinder.dll
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\bin\x64\Debug\netcoreapp3.1\ProjectFinder.pdb
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\x64\Debug\netcoreapp3.1\ProjectFinder.csproj.AssemblyReference.cache
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\x64\Debug\netcoreapp3.1\ProjectFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\x64\Debug\netcoreapp3.1\ProjectFinder.AssemblyInfoInputs.cache
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\x64\Debug\netcoreapp3.1\ProjectFinder.AssemblyInfo.cs
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\x64\Debug\netcoreapp3.1\ProjectFinder.csproj.CoreCompileInputs.cache
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\x64\Debug\netcoreapp3.1\ProjectFinder.dll
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\x64\Debug\netcoreapp3.1\ProjectFinder.pdb
+C:\Users\etamayo\OneDrive - BIT\Documentos\GitHub\WordFinder\ProjectFinder\obj\x64\Debug\netcoreapp3.1\ProjectFinder.genruntimeconfig.cache
